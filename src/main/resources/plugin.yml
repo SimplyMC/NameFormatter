@@ -1,0 +1,6 @@
+name: SMCNameFormatter
+version: '${project.version}'
+main: net.simplymc.nameformatter.NameFormatterPlugin
+api-version: 1.19
+depend: [ LuckPerms ]
+authors: [ Nomad ]
